@@ -8,8 +8,8 @@
   "manifestVersion": 2,
 
   "preconfiguredEntries": [{
-    "groupId": "de33e780-5ae0-4d1e-abbc-5ef3468debb1",
-    "group": { "default": "Under Development" },
+    "groupId": "5c03119e-3074-46fd-976b-c60198311f70", // Other
+    "group": { "default": "Avtex" },
     "title": { "default": "Weather" },
     "description": { "default": "Shows weather for the given place" },
     "officeFabricIconFontName": "Sunny",

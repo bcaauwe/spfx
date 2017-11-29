@@ -15,8 +15,8 @@
 
   "preconfiguredEntries": [{
     "groupId": "5c03119e-3074-46fd-976b-c60198311f70", // Other
-    "group": { "default": "Other" },
-    "title": { "default": "UserProfileInformation" },
+    "group": { "default": "Avtex" },
+    "title": { "default": "User Profile Information" },
     "description": { "default": "Use this to show information for the current user from the profile store" },
     "officeFabricIconFontName": "Page",
     "properties": {

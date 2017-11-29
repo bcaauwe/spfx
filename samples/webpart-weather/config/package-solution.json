@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "weather-web-part-client-side-solution",
+    "id": "658d8726-e231-4ff8-a606-c889a49a504f",
+    "version": "1.0.0.0",
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/weather-web-part.sppkg"
+  }
+}

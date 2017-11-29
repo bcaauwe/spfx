@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "user-profile-web-part-client-side-solution",
+    "id": "16a8600d-b672-4d17-96d0-42c4a0a61879",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/user-profile-web-part.sppkg"
+  }
+}

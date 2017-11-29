@@ -1,0 +1,18 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "user-profile-information-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/userProfileInformation/UserProfileInformationWebPart.js",
+          "manifest": "./src/webparts/userProfileInformation/UserProfileInformationWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "UserProfileInformationWebPartStrings": "lib/webparts/userProfileInformation/loc/{locale}.js"
+  }
+}

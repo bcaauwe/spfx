@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sp-fx-script-editor-web-part-client-side-solution",
+    "id": "2435a112-dc13-4449-93c7-7a8212bb2964",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/sp-fx-script-editor-web-part.sppkg"
+  }
+}
